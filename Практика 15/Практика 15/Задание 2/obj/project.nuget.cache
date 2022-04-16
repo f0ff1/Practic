@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzZMQVoZKWlAgVsxjCrS2DQ2LTKtmNyqENnsvjnbbISxf8bPlfz6ar9//wDCyH1vRP/fjDWC09B1JCi9lHTdmA==",
+  "success": true,
+  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 15\\Практика 15\\Задание 2\\Задание 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
