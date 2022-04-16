@@ -18,3 +18,24 @@ E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 16\П
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\ref\Задание 2-3.dll
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.pdb
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.genruntimeconfig.cache
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.exe
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.deps.json
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.runtimeconfig.json
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.runtimeconfig.dev.json
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\ref\Задание 2-3.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.pdb
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Задание 2-3.xml
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Faker.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\Faker.Net.5.0.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\de-DE\Faker.Net.5.0.resources.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.csproj.AssemblyReference.cache
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.AssemblyInfoInputs.cache
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.AssemblyInfo.cs
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.csproj.CopyComplete
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\ref\Задание 2-3.dll
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.pdb
+E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\obj\Debug\net5.0\Задание 2-3.genruntimeconfig.cache

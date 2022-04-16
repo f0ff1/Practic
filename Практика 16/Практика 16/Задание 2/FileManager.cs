@@ -8,8 +8,16 @@ using static System.Console;
 
 namespace Задание_2
 {
+    /// <summary>
+    /// Класс FileManage работает с текстовыми документами
+    /// </summary>
     public static class FileManager
     {
+        /// <summary>
+        /// Запись n количества строк в файл (строги генерируются с помощью Faker)
+        /// </summary>
+        /// <param name="countOfStrings">Количество строк</param>
+        /// <param name="filePath">Путь к текстовому файлу</param>
         public static void WriteStringToFile(int countOfStrings, string filePath)
         {
             
@@ -20,8 +28,13 @@ namespace Задание_2
                 streamWriter.WriteLine(Faker.TextFaker.Sentence());
             }
             streamWriter.Close();
-        } // Запись n количества строк в файл (строги генерируются с помощью Faker)
+        }
 
+        /// <summary>
+        /// Чтение всех строк из файла 
+        /// </summary>
+        /// <param name="filePath">Путь к текстовому файлу</param>
+        /// <returns>Список строк: List(string)</returns>
         public static List<string> ReadAllString(string filePath)
         {
             StreamReader streamReader = new StreamReader(filePath);
@@ -34,9 +47,13 @@ namespace Задание_2
             }
 
             return stringList;
-        } // Чтение всех строк из файла (Возвращает List<string>)
+        } 
 
-        public static void WriteAllStrings(List<string> stringList) // Вывод всех строк на консоль
+        /// <summary>
+        /// Вывод всех строк на консоль
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        public static void WriteAllStrings(List<string> stringList) 
         {
             foreach (var item in stringList)
             {
@@ -44,7 +61,11 @@ namespace Задание_2
             }
         }
 
-        public static void WriteAllStrings(List<int> stringList) // Вывод всех строк на консоль (Перегрузка INT)
+        /// <summary>
+        /// Вывод всех строк на консоль 
+        /// </summary>
+        /// <param name="stringList">Список строк: List(int)</param>
+        public static void WriteAllStrings(List<int> stringList) 
         {
             foreach (var item in stringList)
             {
@@ -52,9 +73,11 @@ namespace Задание_2
             }
         }
 
-        public static void WriteAllStrings(IEnumerable<string> stringList) // Вывод всех строк на консоль (Перегрузка Ienumerable)
-
-
+        /// <summary>
+        /// Вывод всех строк на консоль
+        /// </summary>
+        /// <param name="stringList">Список строк: Ienumerable(string)</param>
+        public static void WriteAllStrings(IEnumerable<string> stringList)
         {
             foreach (var item in stringList)
             {
@@ -62,9 +85,19 @@ namespace Задание_2
             }
         }
 
-        public static int CountOfString(List<string> stringList) => stringList.Count(); // Возвращает количество строк в файле         
-           
-        public static List<int> CountOfChars(List<string> stringList) // Возвращает список количества символов в строках
+        /// <summary>
+        /// Возвращает количество строк в файле   
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        /// <returns>int count</returns>
+        public static int CountOfString(List<string> stringList) => stringList.Count();
+
+        /// <summary>
+        /// Возвращает список количества символов в строках
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        /// <returns>List(int)</returns>
+        public static List<int> CountOfChars(List<string> stringList) 
         {
             List<int> lengthStrings = new();
 
@@ -74,9 +107,14 @@ namespace Задание_2
             }
 
             return lengthStrings;
-        }    
+        }
 
-        public static void FileWithoutLastString(List<string> stringList, string secondFilePath) // Создаёт новый файл без последней строки из предыдущего (text => text2)
+        /// <summary>
+        /// Создаёт новый файл без последней строки из предыдущего (text => text2)
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        /// <param name="secondFilePath">Путь ко выходному текстовому документу</param>
+        public static void FileWithoutLastString(List<string> stringList, string secondFilePath) 
         {
             
             StreamWriter secondStreamWriter = new StreamWriter(secondFilePath, false);
@@ -90,7 +128,11 @@ namespace Задание_2
             secondStreamWriter.Close();
         }
 
-        public static void WriteFirstSecond(List<string> stringList) // Вывод первой и второй строки файла
+        /// <summary>
+        /// Вывод первой и второй строки файла
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        public static void WriteFirstSecond(List<string> stringList)  
         {
             for (int i = 0; i < 2; i++)
             {
@@ -98,7 +140,13 @@ namespace Задание_2
             }
         }
 
-        public static string StringWithMaxLength(List<int> lengthStrings, List<string> stringList) // Выдает строку максимальной длины
+        /// <summary>
+        /// Выдает строку максимальной длины
+        /// </summary>
+        /// <param name="lengthStrings">Список длин всех строк List(int)</param>
+        /// <param name="stringList"></param>
+        /// <returns>Строку максимальной длины</returns>
+        public static string StringWithMaxLength(List<int> lengthStrings, List<string> stringList) 
         {
             var maxLength = lengthStrings.Max();
             var indexOfMaxString = lengthStrings.IndexOf(maxLength);
@@ -106,6 +154,12 @@ namespace Задание_2
             return stringList[indexOfMaxString];
         }
 
+        /// <summary>
+        /// Возвращает строки начинающиеся с буквы letter
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        /// <param name="letter">Начальная буква</param>
+        /// <returns>Ienumerable(string)</returns>
         public static IEnumerable<string> GetStringsStartWith(List<string> stringList, string letter)
         {
             var finded = stringList.Where(p => p.StartsWith(letter.ToUpper()));
@@ -119,9 +173,13 @@ namespace Задание_2
             }
             
         }
-            
-        
-        public static void NewFileReverse(List<string> stringList, string thirdFilePath) // Создает файл техт3 с строками.reverse
+
+        /// <summary>
+        /// Создает файл техт3 с строками.reverse
+        /// </summary>
+        /// <param name="stringList">Список строк: List(string)</param>
+        /// <param name="thirdFilePath">Путь к третьему текстовому документу</param>
+        public static void NewFileReverse(List<string> stringList, string thirdFilePath) 
         {
             
             StreamWriter thirdStreamWriter = new StreamWriter(thirdFilePath, false);

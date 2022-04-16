@@ -6,6 +6,10 @@
     <RootNamespace>Задание_2</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>E:\GitHubRepos\Practic\Практика 16\Практика 16\Задание 2\Задание 2-3.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Faker" Version="1.2.0" />
     <PackageReference Include="Faker.Net" Version="2.0.154" />
