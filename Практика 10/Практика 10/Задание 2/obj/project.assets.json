@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Faker/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/Faker.dll": {}
+        },
+        "runtime": {
+          "lib/Faker.dll": {}
+        }
+      },
+      "Задание 1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Faker": "1.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Задание 1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Задание 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faker/1.2.0": {
+      "sha512": "FvYt17xHV8R0DGb3O5scLtiWK8RrBuG0feDAWuzdM1l1bS62JOuhNgf4BgJthGFYZrEMKoU5XgCODLtXpS0cvw==",
+      "type": "package",
+      "path": "faker/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "faker.1.2.0.nupkg.sha512",
+        "faker.nuspec",
+        "lib/Faker.dll"
+      ]
+    },
+    "Задание 1/1.0.0": {
+      "type": "project",
+      "path": "../Задание 1/Задание 1.csproj",
+      "msbuildProject": "../Задание 1/Задание 1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Faker >= 1.2.0",
+      "Задание 1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Андрей\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 2\\Задание 2.csproj",
+      "projectName": "Задание 2",
+      "projectPath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 2\\Задание 2.csproj",
+      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+      "outputPath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 1\\Задание 1.csproj": {
+              "projectPath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 1\\Задание 1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Faker": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Faker 1.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Faker",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
