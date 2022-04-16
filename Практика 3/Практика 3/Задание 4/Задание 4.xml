@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Задание 4</name>
+    </assembly>
+    <members>
+        <member name="M:Задание_4.Massiv.makeMas">
+            <summary>
+            Создает двумерный массив и заполняет его рандомными числами типа double.
+            </summary>
+            <returns>Array double[,]</returns>
+        </member>
+        <member name="M:Задание_4.Massiv.WriteMas">
+            <summary>
+            Вывод Array double[,] массив на консоль.
+            </summary>
+        </member>
+        <member name="M:Задание_4.Massiv.makePlus(System.Int32)">
+            <summary>
+            Суммирует значения первого и указанного столбца.
+            </summary>
+            <param name="numbColumn">Номер выбранного столбца</param>
+            <returns>new Array double[,] с изменёнными значениями</returns>
+        </member>
+        <member name="M:Задание_4.Massiv.op_Addition(Задание_4.Massiv,System.Int32)">
+            <summary>
+            Перегрузка оператора '+': суммирует значения первого стоблца с указанным (int)
+            </summary>
+            <param name="myMas"></param>
+            <param name="columnNumber"></param>
+            <returns>new Array double[,] с изменёнными значениями</returns>
+        </member>
+    </members>
+</doc>
