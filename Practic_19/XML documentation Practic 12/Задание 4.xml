@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Задание 4</name>
+    </assembly>
+    <members>
+        <member name="T:Задание_4.Models.DelegateService">
+            <summary>
+            Класс DelegateSerivce работает с делегатами: "Action, Func"
+            </summary>
+        </member>
+        <member name="M:Задание_4.Models.DelegateService.GetRandomNum(System.Action{System.Int32})">
+            <summary>
+            Возвращает рандомное число, сгенерированное с помощью NuGet Faker.RundomNumber(1, 100)
+            </summary>
+            <param name="action"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Задание_4.Models.DelegateService.GetAverage(System.Collections.Generic.List{System.Func{System.Action{System.Int32},System.Int32}},System.Action{System.Int32})">
+            <summary>
+            Вычисляет среднее арифметическое чисел. Linq.Average
+            </summary>
+            <param name="myDelegates">Список делегаетов (int,int)</param>
+            <param name="action"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
