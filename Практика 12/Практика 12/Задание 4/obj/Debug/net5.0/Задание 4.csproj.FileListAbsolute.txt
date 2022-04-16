@@ -17,3 +17,23 @@ E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 12\П
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\ref\Задание 4.dll
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.pdb
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.genruntimeconfig.cache
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.exe
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.deps.json
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.runtimeconfig.json
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.runtimeconfig.dev.json
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\ref\Задание 4.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.pdb
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Задание 4.xml
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\Faker.Net.5.0.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\bin\Debug\net5.0\de-DE\Faker.Net.5.0.resources.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.csproj.AssemblyReference.cache
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.AssemblyInfoInputs.cache
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.AssemblyInfo.cs
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.csproj.CopyComplete
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\ref\Задание 4.dll
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.pdb
+E:\GitHubRepos\Practic\Практика 12\Практика 12\Задание 4\obj\Debug\net5.0\Задание 4.genruntimeconfig.cache

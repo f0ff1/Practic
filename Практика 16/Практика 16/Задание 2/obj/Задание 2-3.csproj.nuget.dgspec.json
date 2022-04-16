@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj": {}
+    "E:\\GitHubRepos\\Practic\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj": {}
   },
   "projects": {
-    "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj": {
+    "E:\\GitHubRepos\\Practic\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj",
+        "projectUniqueName": "E:\\GitHubRepos\\Practic\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj",
         "projectName": "Задание 2-3",
-        "projectPath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj",
+        "projectPath": "E:\\GitHubRepos\\Practic\\Практика 16\\Практика 16\\Задание 2\\Задание 2-3.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 16\\Практика 16\\Задание 2\\obj\\",
+        "outputPath": "E:\\GitHubRepos\\Practic\\Практика 16\\Практика 16\\Задание 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
