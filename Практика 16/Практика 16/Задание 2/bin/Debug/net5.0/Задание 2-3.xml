@@ -4,6 +4,16 @@
         <name>Задание 2-3</name>
     </assembly>
     <members>
+        <member name="T:Задание_2.DirectoryManager">
+            <summary>
+            Класс DirectoryManager работает с директориями
+            </summary>
+        </member>
+        <member name="M:Задание_2.DirectoryManager.CreateDirectory">
+            <summary>
+            Создает новую директорию по указанному пути
+            </summary>
+        </member>
         <member name="T:Задание_2.FileManager">
             <summary>
             Класс FileManage работает с текстовыми документами

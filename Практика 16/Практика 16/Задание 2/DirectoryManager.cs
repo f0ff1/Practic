@@ -8,8 +8,14 @@ using static System.Console;
 
 namespace Задание_2
 {
+    /// <summary>
+    /// Класс DirectoryManager работает с директориями
+    /// </summary>
     public static class DirectoryManager
     {
+        /// <summary>
+        /// Создает новую директорию по указанному пути
+        /// </summary>
         public static void CreateDirectory()
         {
             string directoryPath = @"E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 16\Практика 16\Задание 2\bin\Debug\net5.0\TestDirectory";
