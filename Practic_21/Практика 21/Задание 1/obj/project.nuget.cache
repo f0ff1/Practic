@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzRimQGlEHPgJFA1FmcgFQQPbm8SM1y3hcnwqCr4m6keaa7XG2s13G70PPwyoV8WteFp679eeg7Je2KIdpWWew==",
+  "success": true,
+  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Practic_21\\Практика 21\\Задание 1\\Задание 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\faker\\1.2.0\\faker.1.2.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Faker 1.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Faker",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
