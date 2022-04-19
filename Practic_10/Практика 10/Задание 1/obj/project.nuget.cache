@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0pm+wRl01ZTA+NkCgcZjC86omTrBdg0NqejCRoSS4R4t2wPA8zPByysuB+YbY4uL+eDuGmy4Tj01u9/FP7mHg==",
+  "dgSpecHash": "jahscJu9HzdpAS4qE19cD5JwVA+EHyB1ZWv+rS64CsSM0I/qpjk9efuy6Vq4KeuUqzNGTEwiq/PlGW9bVyYqBg==",
   "success": true,
-  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 10\\Практика 10\\Задание 1\\Задание 1.csproj",
+  "projectFilePath": "E:\\GitHubRepos\\Practic\\Practic_10\\Практика 10\\Задание 1\\Задание 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Андрей\\.nuget\\packages\\faker\\1.2.0\\faker.1.2.0.nupkg.sha512"
   ],
