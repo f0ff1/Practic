@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGE8JxzGa2co5vjwsFc3wp3X6xvXJU3avYJXjAYs0St3kgiDZTvs3FRpAKjkkLG7p0HAvQvGm0bEaYFqXc5lhw==",
+  "dgSpecHash": "wmou4gTW38uFCdYd18aJwTKFmbbmkeQ8ICU7t6XsSQLhpVy9AbWEOmYzX9SgejzEInfvFzkDgZKGt2JRr4Eijw==",
   "success": true,
-  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 22\\Практика 22\\Задание 3\\Задание 3.csproj",
+  "projectFilePath": "E:\\GitHubRepos\\Practic\\Practic_22\\Практика 22\\Задание 3\\Задание 3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Андрей\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512"
   ],

@@ -18,3 +18,23 @@ E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 22\П
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 22\Практика 22\Задание 1\obj\Debug\net5.0-windows\ref\Задание 1.dll
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.pdb
 E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.genruntimeconfig.cache
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.exe
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.deps.json
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.runtimeconfig.json
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.runtimeconfig.dev.json
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.dll
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\ref\Задание 1.dll
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\Задание 1.pdb
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\bin\Debug\net5.0-windows\MaterialSkin.dll
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.csproj.AssemblyReference.cache
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание_1.Form1.resources
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.csproj.GenerateResource.cache
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.AssemblyInfoInputs.cache
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.AssemblyInfo.cs
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.csproj.CopyComplete
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.dll
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\ref\Задание 1.dll
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.pdb
+E:\GitHubRepos\Practic\Practic_22\Практика 22\Задание 1\obj\Debug\net5.0-windows\Задание 1.genruntimeconfig.cache
