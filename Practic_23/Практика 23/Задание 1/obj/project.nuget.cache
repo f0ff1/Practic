@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cYUF9fp7GeWNNC7A6XJ7Dqd8ekqas3DhdODp6qF4Jli6otEdUdlThwtzeA1HZoY5iWp0aBI06OnXrrt4XD2ww==",
+  "success": true,
+  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 23\\Практика 23\\Задание 1\\Задание 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MaterialSkin 0.2.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MaterialSkin",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5NMlXkMeRAGbsQ1ndL6tD8tzcEi8jojRNBZ45PHnv+MVCo99L/UepHRwlkhsZSewSzPb71AutnUBGbsrEl07g==",
+  "success": true,
+  "projectFilePath": "E:\\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\\Практика 23\\Практика 23\\Задание 2\\Задание 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\syncfusion.chart.base\\20.1.0.50\\syncfusion.chart.base.20.1.0.50.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\syncfusion.chart.windows\\20.1.0.50\\syncfusion.chart.windows.20.1.0.50.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\syncfusion.grouping.base\\20.1.0.50\\syncfusion.grouping.base.20.1.0.50.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\syncfusion.licensing\\20.1.0.50\\syncfusion.licensing.20.1.0.50.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\syncfusion.shared.base\\20.1.0.50\\syncfusion.shared.base.20.1.0.50.nupkg.sha512"
+  ],
+  "logs": []
+}
