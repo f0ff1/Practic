@@ -1,0 +1,14 @@
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\bin\Debug\net5.0-windows\WinFormsControlLibrary1.deps.json
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\bin\Debug\net5.0-windows\WinFormsControlLibrary1.dll
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\bin\Debug\net5.0-windows\ref\WinFormsControlLibrary1.dll
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\bin\Debug\net5.0-windows\WinFormsControlLibrary1.pdb
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.csproj.AssemblyReference.cache
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.UserControl1.resources
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.csproj.GenerateResource.cache
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.AssemblyInfoInputs.cache
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.AssemblyInfo.cs
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.dll
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\ref\WinFormsControlLibrary1.dll
+E:\ПРАКТИКА ПО ПРОГРАММИРОВАНИЮ\Практика 24\Практика 24\WinFormsControlLibrary1\obj\Debug\net5.0-windows\WinFormsControlLibrary1.pdb
