@@ -57,7 +57,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 53 "..\..\MainWindow.xaml"
+        #line 54 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Expander ExpanderFunctions;
         
@@ -65,7 +65,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 70 "..\..\MainWindow.xaml"
+        #line 71 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock TextBlockType;
         
@@ -73,7 +73,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 76 "..\..\MainWindow.xaml"
+        #line 77 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox ComboBoxType;
         
@@ -81,7 +81,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 79 "..\..\MainWindow.xaml"
+        #line 80 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox TextBoxCount;
         
@@ -89,7 +89,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 87 "..\..\MainWindow.xaml"
+        #line 88 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonAddFlower;
         
@@ -97,7 +97,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 100 "..\..\MainWindow.xaml"
+        #line 101 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonShowFlowers;
         
@@ -105,7 +105,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 110 "..\..\MainWindow.xaml"
+        #line 111 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ButtonClear;
         
@@ -113,7 +113,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 120 "..\..\MainWindow.xaml"
+        #line 121 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Expander ExpanderOutput;
         
@@ -121,7 +121,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 121 "..\..\MainWindow.xaml"
+        #line 122 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.GroupBox GroupBoxOutput;
         
@@ -129,7 +129,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 131 "..\..\MainWindow.xaml"
+        #line 132 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton RadioTextBlock;
         
@@ -137,7 +137,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 132 "..\..\MainWindow.xaml"
+        #line 133 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton RadioTreeView;
         
@@ -145,7 +145,7 @@ namespace Задание_1 {
         #line hidden
         
         
-        #line 133 "..\..\MainWindow.xaml"
+        #line 134 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RadioButton RadioListBox;
         
@@ -203,7 +203,7 @@ namespace Задание_1 {
             case 7:
             this.ButtonAddFlower = ((System.Windows.Controls.Button)(target));
             
-            #line 96 "..\..\MainWindow.xaml"
+            #line 97 "..\..\MainWindow.xaml"
             this.ButtonAddFlower.Click += new System.Windows.RoutedEventHandler(this.ButtonAddFlower_Click);
             
             #line default
@@ -212,7 +212,7 @@ namespace Задание_1 {
             case 8:
             this.ButtonShowFlowers = ((System.Windows.Controls.Button)(target));
             
-            #line 108 "..\..\MainWindow.xaml"
+            #line 109 "..\..\MainWindow.xaml"
             this.ButtonShowFlowers.Click += new System.Windows.RoutedEventHandler(this.ButtonShowFlowers_Click);
             
             #line default
@@ -221,7 +221,7 @@ namespace Задание_1 {
             case 9:
             this.ButtonClear = ((System.Windows.Controls.Button)(target));
             
-            #line 117 "..\..\MainWindow.xaml"
+            #line 118 "..\..\MainWindow.xaml"
             this.ButtonClear.Click += new System.Windows.RoutedEventHandler(this.ButtonClear_Click);
             
             #line default
@@ -236,7 +236,7 @@ namespace Задание_1 {
             case 12:
             this.RadioTextBlock = ((System.Windows.Controls.RadioButton)(target));
             
-            #line 131 "..\..\MainWindow.xaml"
+            #line 132 "..\..\MainWindow.xaml"
             this.RadioTextBlock.Checked += new System.Windows.RoutedEventHandler(this.RadioTextBlock_Checked);
             
             #line default
