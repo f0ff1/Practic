@@ -1,0 +1,9 @@
+D:\тест\26\29\29\z2\bin\Debug\z2.exe.config
+D:\тест\26\29\29\z2\bin\Debug\z2.exe
+D:\тест\26\29\29\z2\bin\Debug\z2.pdb
+D:\тест\26\29\29\z2\obj\Debug\z2.Form1.resources
+D:\тест\26\29\29\z2\obj\Debug\z2.Properties.Resources.resources
+D:\тест\26\29\29\z2\obj\Debug\z2.csproj.GenerateResource.Cache
+D:\тест\26\29\29\z2\obj\Debug\z2.exe
+D:\тест\26\29\29\z2\obj\Debug\z2.pdb
+D:\тест\26\29\29\z2\obj\Debug\z2.csprojResolveAssemblyReference.cache
