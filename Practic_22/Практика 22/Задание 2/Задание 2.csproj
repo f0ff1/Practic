@@ -5,6 +5,8 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Задание_2</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>
